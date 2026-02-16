@@ -1,7 +1,8 @@
 # 🚨 Campus Emergency & Security Response System (GIS-Based)
 
 A comprehensive mobile application developed with **Flutter** and **Firebase** designed to enhance campus safety by bridging the gap between students and security personnel in real-time.
-* **Logo:** [SafeCumpus](https://github.com/MoOzma/Gis_Mopile_APP/blob/main/photo_2026-02-16_19-18-30.jpg) (Dart)
+* | ![ProductsTable](https://github.com/MoOzma/Gis_Mopile_APP/blob/main/photo_2026-02-16_19-18-30.jpg) |
+
 ---
 
 ## 📱 Project Overview
