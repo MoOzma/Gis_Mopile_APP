@@ -2,7 +2,9 @@
 
 A comprehensive mobile application developed with **Flutter** and **Firebase** designed to enhance campus safety by bridging the gap between students and security personnel in real-time.
 * | ![ProductsTable](https://github.com/MoOzma/Gis_Mopile_APP/blob/main/photo_2026-02-16_19-18-30.jpg) |
-
+<p align="center">
+  <img src="https://github.com/MoOzma/Gis_Mopile_APP/blob/main/photo_2026-02-16_19-18-30.jpg?raw=true" width="300">
+</p>
 ---
 
 ## 📱 Project Overview
