@@ -33,15 +33,14 @@ As seen in the project structure, the app is architected to support:
 * ✅ Web
 * ✅ Desktop (Windows, MacOS, Linux)
 
-
 ## Screenshots 📱
 
-| | | |
+| | |
 |:---:|:---:|
-| <img src="ScreenShots/Screenshot 2026-04-12 152738.png" width="250"> | <img src="ScreenShots/Screenshot 2026-04-12 152747.png" width="250"> | <img src="ScreenShots/Screenshot 2026-04-12 152754.png" width="250"> |
-| <img src="ScreenShots/Screenshot 2026-04-12 152803.png" width="250"> | <img src="ScreenShots/Screenshot 2026-04-12 152808.png" width="250"> | <img src="ScreenShots/Screenshot 2026-04-12 152816.png" width="250"> |
-| <img src="ScreenShots/Screenshot 2026-04-12 152826.png" width="250"> | <img src="ScreenShots/Screenshot 2026-04-12 152834.png" width="250"> | |
----
+| <img src="ScreenShots/Screenshot 2026-04-12 152738.png" width="350"> | <img src="ScreenShots/Screenshot 2026-04-12 152747.png" width="350"> |
+| <img src="ScreenShots/Screenshot 2026-04-12 152754.png" width="350"> | <img src="ScreenShots/Screenshot 2026-04-12 152803.png" width="350"> |
+| <img src="ScreenShots/Screenshot 2026-04-12 152808.png" width="350"> | <img src="ScreenShots/Screenshot 2026-04-12 152816.png" width="350"> |
+| <img src="ScreenShots/Screenshot 2026-04-12 152826.png" width="350"> | <img src="ScreenShots/Screenshot 2026-04-12 152834.png" width="350"> |
 
 ## 👥 Contributors
 Proudly contributed to this project as part of a development team. You can check my specific commits and contributions in the **Contributors** section of this repository.
